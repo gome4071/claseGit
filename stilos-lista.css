@@ -1,0 +1,41 @@
+
+/* Estilo en linea */
+body
+ {
+    background-color: blanchedalmond;
+ }
+    
+
+ /* Estilos a tags */
+ h3 {
+     background-color: aquamarine;
+    
+ }
+
+ /* Estilos por IDs*/
+ #azul_id{
+     color: blue;
+ }
+
+ /* Estilos sobre profundidades */
+ ul{
+     font-size: 25px;
+     font-style: italic;     
+ }
+
+ /* Estilos por clases */
+ .niños{
+    padding: 0.5em;
+    border: 1px solid #98be10;
+    background: #f6feda;
+ }
+
+ /* SPAN*/
+ pre span { 
+     color: fuchsia;
+     }
+
+ /*  Databindig*/
+ p[error]{
+    color: red;   
+ }
